@@ -1,4 +1,4 @@
-Репозиторий со скриптами для SPARX Enterprise Architect
+**Репозиторий со скриптами для SPARX Enterprise Architect:**
 1. Выгрузка диаграмм в виде PlantUML
 2. Поисковые запросы по диаграммам
 
